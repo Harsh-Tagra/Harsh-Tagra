@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh905&label=Profile%20views&color=0e75b6&style=flat" alt="harsh905" /> </p>
 
-- 🌱 I’m currently learning **shell**
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **HTML5,CSS3,SCSS,javascript,ES6,Bootstrap,API,git**
 
